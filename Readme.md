@@ -5,6 +5,7 @@ WebAssembly modules at runtime in order to achieve decent performance. Here's a
 list of emulated hardware:
 [yes](https://google.com/)
 [no](https://ChromebookGuy.github.io/v86/examples/debian.html)
+[maybe](https://copy.sh/v86/?profile=archlinux&c=.%2Fnetworking.sh%3B.%2Fstartx.sh%26echo%20'sleep%20240%3Bxterm'%3E.%2Fxterm-launch.sh%3B.%2Fxterm-launch.sh%26)
 - An x86-compatible CPU. The instruction set is around Pentium 4 level,
   including full SSE2 support. Some features are missing, in particular:
   - Task gates, far calls in protected mode
